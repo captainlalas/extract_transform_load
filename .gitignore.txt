@@ -1,7 +1,0 @@
-# ingore all csv, json and xml files and the source folder
-source/*.json
-source/*.xml
-source/*.csv
-*.json
-*.csv
-*.xml
